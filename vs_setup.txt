@@ -1,0 +1,7 @@
+extensions: 
+    python
+    pep8
+
+pep8
+    To install the package ensure you are in your project folder and virtualenv is enabled
+    
